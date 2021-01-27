@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cd0r/static/css/main.1d96f31d.chunk.css",
+    "main.css": "/cd0r/static/css/main.da5189e4.chunk.css",
     "main.js": "/cd0r/static/js/main.5da5c7e5.chunk.js",
     "main.js.map": "/cd0r/static/js/main.5da5c7e5.chunk.js.map",
     "runtime-main.js": "/cd0r/static/js/runtime-main.fc511641.js",
@@ -10,7 +10,7 @@
     "static/js/3.173d68d6.chunk.js": "/cd0r/static/js/3.173d68d6.chunk.js",
     "static/js/3.173d68d6.chunk.js.map": "/cd0r/static/js/3.173d68d6.chunk.js.map",
     "index.html": "/cd0r/index.html",
-    "static/css/main.1d96f31d.chunk.css.map": "/cd0r/static/css/main.1d96f31d.chunk.css.map",
+    "static/css/main.da5189e4.chunk.css.map": "/cd0r/static/css/main.da5189e4.chunk.css.map",
     "static/js/2.a246fc5d.chunk.js.LICENSE.txt": "/cd0r/static/js/2.a246fc5d.chunk.js.LICENSE.txt",
     "static/media/JC_negro.d188373f.png": "/cd0r/static/media/JC_negro.d188373f.png",
     "static/media/logo.6ce24c58.svg": "/cd0r/static/media/logo.6ce24c58.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.fc511641.js",
     "static/js/2.a246fc5d.chunk.js",
-    "static/css/main.1d96f31d.chunk.css",
+    "static/css/main.da5189e4.chunk.css",
     "static/js/main.5da5c7e5.chunk.js"
   ]
 }
